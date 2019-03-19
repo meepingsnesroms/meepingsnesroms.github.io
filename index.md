@@ -19,9 +19,19 @@ Enjoy!
 - Written in C for best performance and compatibility
 - Runs on any platform (Speed may vary if < 1GHz/1GB RAM)
 - Only Palm OS emulator that plays sound properly
+- Only Palm OS emulator that supports the Palm SD card hardware
 - No tracking / It doesn't even connect to the internet
 
 ## Changelog
 
-- [changelog.txt](https://github.com/meepingsnesroms/Mu/blob/master/changelog.txt)
+- [Changelog](https://github.com/meepingsnesroms/Mu/blob/master/changelog.txt)
 
+## The name
+
+The word "emulator" gets shortened to "emu" so I just shortened "emu" to "mu", was originally just called "palmm515emu" but that was too bland and I was hesitant to give it a name untill I was sure I would finish it.
+
+## Contact
+
+- [Report a Mu bug](https://github.com/meepingsnesroms/Mu/issues/new)
+- [Report a RetroArch bug](https://github.com/libretro/RetroArch/issues/new)
+- [Contact me](./contact.md)
