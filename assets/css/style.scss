@@ -39,14 +39,14 @@ $section-headings-color: #b366ff;
 }
 
 .btn {
-   color: rgba(179, 102, 255, 0.7);
-   background-color: rgba(179, 102, 255, 0.08);
-   border-color: rgba(179, 102, 255, 0.2);
+   color: rgba(179, 102, 255, 0.8);
+   background-color: rgba(179, 102, 255, 0.09);
+   border-color: rgba(179, 102, 255, 0.3);
 
    &:hover {
-    color: rgba(179, 102, 255, 0.8);
+    color: rgba(179, 102, 255, 0.9);
     text-decoration: none;
-    background-color: rgba(179, 102, 255, 0.2);
-    border-color: rgba(179, 102, 255, 0.3);
+    background-color: rgba(179, 102, 255, 0.3);
+    border-color: rgba(179, 102, 255, 0.4);
    }
 }
