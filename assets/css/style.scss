@@ -38,6 +38,15 @@ $section-headings-color: #b366ff;
   background-size: contain;
 }
 
-.site-footer {
-  visibility: hidden;
+.btn {
+   color: rgba(179, 102, 255, 0.7);
+   background-color: rgba(179, 102, 255, 0.08);
+   border-color: rgba(179, 102, 255, 0.2);
+
+   &:hover {
+    color: rgba(179, 102, 255, 0.8);
+    text-decoration: none;
+    background-color: rgba(179, 102, 255, 0.2);
+    border-color: rgba(179, 102, 255, 0.3);
+   }
 }
