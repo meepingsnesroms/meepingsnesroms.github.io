@@ -4,5 +4,5 @@
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url("{{ site.url }}/images/watermellonBunny.jpg");
+  background-image: url("{{ mysite.url }}/images/watermellonBunny.jpg");
 }
