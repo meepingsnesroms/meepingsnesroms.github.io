@@ -28,7 +28,7 @@ Enjoy!
 
 ## The name
 
-The word "emulator" gets shortened to "emu" so I just shortened "emu" to "mu", was originally just called "palmm515emu" but that was too bland and I was hesitant to give it a name untill I was sure I would finish it.
+The word "emulator" gets shortened to "emu" so I just shortened "emu" to "mu", it was originally just called "palmm515emu" but that was too bland and I was hesitant to give it a name untill I was sure I would finish it.
 
 ## Contact
 
