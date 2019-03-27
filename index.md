@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Mu
 Mu is the first Palm OS emulator capable of actually playing Palm games. 
 It is currently capable of playing most 160×160 Palm OS 4 software perfectly. 
