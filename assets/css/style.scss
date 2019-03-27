@@ -6,4 +6,5 @@
 .page-header {
   background-image: url("{{ mysite.url }}/images/watermellonBunny.png");
   background-position: center;
+  background-size: contain;
 }
