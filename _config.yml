@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Mu Palm OS Emulator
 description: It runs on everything!
+background-image: url('/images/watermellonBunny.jpg')
