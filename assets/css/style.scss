@@ -28,25 +28,26 @@ $hr-border-color: #eff0f1 !default;
 */
 
 $header-heading-color: #7300e6;
+$header-bg-color: #7300e6;//prevents a giant green blob from popping up on load
 $section-headings-color: #b366ff;
 
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: url("{{ mysite.url }}/images/watermellonBunny.png");
-  background-position: center;
-  background-size: contain;
+   background-image: url("{{ mysite.url }}/images/watermellonBunny.png");
+   background-position: center;
+   background-size: contain;
 }
 
 .btn {
-   color: rgba(179, 102, 255, 0.8);
-   background-color: rgba(179, 102, 255, 0.09);
-   border-color: rgba(179, 102, 255, 0.3);
+   color: rgba(179, 102, 255, 1.0);
+   background-color: rgba(179, 102, 255, 0.08);
+   border-color: rgba(179, 102, 255, 0.2);
 
    &:hover {
-    color: rgba(179, 102, 255, 0.9);
-    text-decoration: none;
-    background-color: rgba(179, 102, 255, 0.3);
-    border-color: rgba(179, 102, 255, 0.4);
+      color: rgba(179, 102, 255, 1.0);
+      text-decoration: none;
+      background-color: rgba(179, 102, 255, 0.2);
+      border-color: rgba(179, 102, 255, 0.3);
    }
 }
