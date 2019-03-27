@@ -27,8 +27,8 @@ $table-border-color: #e9ebec !default;
 $hr-border-color: #eff0f1 !default;
 */
 
-$header-heading-color: #7300e6;
-$header-bg-color: #7300e6;//prevents a giant green blob from popping up on load
+$header-heading-color: #7a7a52;
+$header-bg-color: #7a7a52;//prevents a giant green blob from popping up on load
 $section-headings-color: #b366ff;
 
 @import "{{ site.theme }}";
@@ -40,14 +40,14 @@ $section-headings-color: #b366ff;
 }
 
 .btn {
-   color: rgba(179, 102, 255, 1.0);
-   background-color: rgba(179, 102, 255, 0.08);
-   border-color: rgba(179, 102, 255, 0.2);
+   color: rgba(240, 0, 0, 0.7);
+   background-color: rgba(240, 0, 0, 0.08);
+   border-color: rgba(240, 0, 0, 0.2);
 
    &:hover {
-      color: rgba(179, 102, 255, 1.0);
+      color: rgba(240, 0, 0, 0.8);
       text-decoration: none;
-      background-color: rgba(179, 102, 255, 0.2);
-      border-color: rgba(179, 102, 255, 0.3);
+      background-color: rgba(240, 0, 0, 0.2);
+      border-color: rgba(240, 0, 0, 0.3);
    }
 }
