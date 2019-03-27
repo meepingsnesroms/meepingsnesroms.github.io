@@ -2,7 +2,7 @@ theme: jekyll-theme-cayman
 title: Mu Palm OS Emulator
 description: It runs on everything!
 mysite.url: "https://meepingsnesroms.github.io"
-site.show_downloads: true
+show_downloads: true
 github:
   is_project_page: true
   repository_url: "https://github.com/meepingsnesroms/Mu"
