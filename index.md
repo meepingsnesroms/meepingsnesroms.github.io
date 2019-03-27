@@ -8,11 +8,6 @@ The main target is RetroArch so it runs on everything, an additional Qt port is 
 
 Enjoy!
 
-## Downloads
-
-- [RetroArch](https://retroarch.com/?page=platforms)
-- [Qt](https://github.com/meepingsnesroms/Mu/releases)
-
 ## Features
 - Free
 - Open Source
