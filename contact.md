@@ -6,7 +6,7 @@
 
 ## Discord
 - [Mu](https://discord.gg/hWSz8VN)
-- [PalmArchive](https://discord.gg/kbwBEt6)
+- [PalmDB](https://discord.gg/kbwBEt6)
 - [RetroArch/libretro](https://discord.gg/VPVfj3V)
 
 ## Keybase
