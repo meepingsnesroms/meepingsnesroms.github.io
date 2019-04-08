@@ -1,3 +1,7 @@
+---
+layout: blog
+---
+
 # Ghidra supports C output for uncommon architectures!
 
 ![Image Proof](../images/ghidraCOut.png)

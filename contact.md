@@ -1,3 +1,7 @@
+---
+layout: noTagAndButtons
+---
+
 # Contact
 
 ## GitHub
@@ -19,4 +23,3 @@
 ### If using the RetroArch port please report bugs that occur in all libretro cores to libretro, if you dont know you can report it to me and I will forward it if necessary.
 
 You may contact me for anything Palm OS related and expect a response within a week, any other topics will most likely get a response but one is not guaranteed.
-
