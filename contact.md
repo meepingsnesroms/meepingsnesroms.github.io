@@ -13,6 +13,9 @@ layout: noTagAndButtons
 - [PalmDB](https://discord.gg/kbwBEt6)
 - [RetroArch/libretro](https://discord.gg/VPVfj3V)
 
+## Twitter
+- [My Twitter](https://twitter.com/meepingsnesroms)
+
 ## Keybase
 - [My Keybase](https://keybase.io/meepingsnesroms)
 
