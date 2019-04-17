@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/meepingsnesroms
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://meepingsnesroms.github.io
+  * I am meepingsnesroms (https://keybase.io/meepingsnesroms) on keybase.
+  * I have a public key ASD95GwRUV7QjM8Hn6zeD_US5BCCdx9_noaehUnKyUtFsAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f15f0e1841b08c9a08a10badf2cdbd4e9c5b52e3d505d887f032d9b75c665af30a",
+      "host": "keybase.io",
+      "kid": "0120fde46c11515ed08ccf079facde0ff512e41082771f7f9e869e8549cac94b45b00a",
+      "uid": "d32076176cf0077a834f5a6e444c6c19",
+      "username": "meepingsnesroms"
+    },
+    "merkle_root": {
+      "ctime": 1555543129,
+      "hash": "8f1104f8fd7fcde8ca9adfaa7b9e32214860db33ecb852c5c204557f9fe5cb81705e9a3548394e436896645e0f0aecae0b34287c6aaa032764b8e20f5a7779e2",
+      "hash_meta": "5c1b8726a042bafed97b2d96ef4a7406dd5f4311f1f6b1ffb7d6d57c3d6735b4",
+      "seqno": 5195325
+    },
+    "service": {
+      "entropy": "PW5P6ijrhbOWTUwtshfRy+3y",
+      "hostname": "meepingsnesroms.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555543151,
+  "expire_in": 504576000,
+  "prev": "9bf5e6219c122afcf5bc07513fa8263afeec8038df2bf7009a56db5fcb8c41fe",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/eRsEVFe0IzPB5+s3g/1EuQQgncff56GnoVJyslLRbAKp3BheWxvYWTESpcCE8Qgm/XmIZwSKvz1vAdRP6gmOv7sgDjfK/cAmlbbX8uMQf7EIGhSWlJAaI5HVtXDr0CL7E9MILFMAYV8HZmAuZTUiI43AgHCo3NpZ8RAkGrtuPqXXNCEVceFasvLVgfrkGKUBFNSmqIqzHwiqHyqyFGzuYqys1QNYfGA60Qs57Dy+vLeixgkOX0UsmZuDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKefYE/UNMI4WPQF5WfYTJGMhDSi5gt0HhE2NbNq+eZho3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/meepingsnesroms
+
+==================================================================
