@@ -28,11 +28,9 @@ Enjoy!
 - Open Source
 - Written in C for best performance and compatibility
 - Runs on any platform (Speed may vary if < 1GHz/1GB RAM)
-- Plays sound properly(1)
-- Supports the Palm SD card hardware(1)
+- Plays sound properly
+- Supports the Palm SD card hardware
 - No tracking / It doesn't even connect to the internet
-
-- 1 = Only palm emulator that supports this feature
 
 ## Changelog
 
