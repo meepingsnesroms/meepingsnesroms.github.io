@@ -1,6 +1,6 @@
 ---
 layout: mu
-title: Mu | Palm OS Emulator
+title: Mu: Palm OS Emulator
 description: It runs on everything!
 show_downloads: true
 github:
