@@ -14,23 +14,17 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: page.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: page.github.project_tagline }}</h2>
-      {% if page.github.is_project_page %}
-        <a href="{{ page.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if page.show_downloads %}
-        <a href="{{ page.github.retroarch_url }}" class="btn">Download RetroArch</a>
-        <a href="{{ page.github.standalone_url }}" class="btn">Download Standalone</a>
-        <a href="{{ page.github.zip_url }}" class="btn">Source .zip</a>
-      {% endif %}
+      <a href="{{ page.github.repository_url }}" class="btn">View on GitHub</a>
+      <a href="{{ page.github.retroarch_url }}" class="btn">Download RetroArch</a>
+      <a href="{{ page.github.standalone_url }}" class="btn">Download Standalone</a>
+      <a href="{{ page.github.zip_url }}" class="btn">Source .zip</a>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
-        {% if page.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ page.github.repository_url }}">{{ page.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
+       <span class="site-footer-owner"><a href="{{ page.github.repository_url }}">{{ page.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
       </footer>
     </main>
   </body>
