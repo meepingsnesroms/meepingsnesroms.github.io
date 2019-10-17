@@ -1,13 +1,12 @@
 ---
 layout: mu
-title: Mu: Palm OS Emulator
-description: It runs on everything!
+title: "Mu | Palm OS Emulator"
+description: "It runs on everything!"
 show_downloads: true
 github:
   is_project_page: true
-  repository_name: Mu
+  repository_name: "Mu"
   repository_url: "https://github.com/meepingsnesroms/Mu"
-  owner_url: "https://github.com/meepingsnesroms"
   retroarch_url: "https://www.retroarch.com/?page=platforms"
   standalone_url: "https://github.com/meepingsnesroms/Mu/releases"
   zip_url: "https://github.com/meepingsnesroms/Mu/archive/master.zip"
