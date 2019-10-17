@@ -22,7 +22,7 @@ layout: noTagAndButtons
 ## Email
 - [My Email](mailto:guicrith@insiberia.net)
 
-### If you contact me by other methods I cannot guarantee you are actualy talking to me or that others have not read your message!
-### If using the RetroArch port please report bugs that occur in all libretro cores to libretro, if you dont know you can report it to me and I will forward it if necessary.
+### If you contact me by other methods I cannot guarantee you are actually talking to me or that others have not read your message!
+### If using the RetroArch port please report bugs that occur in all libretro cores to libretro, if you don't know you can report it to me and I will forward it if necessary.
 
 You may contact me for anything Palm OS related and expect a response within a week, any other topics will most likely get a response but one is not guaranteed.
